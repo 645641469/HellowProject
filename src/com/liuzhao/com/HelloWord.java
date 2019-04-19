@@ -5,5 +5,6 @@ public class HelloWord {
 		System.out.println("Hello word");
 		System.out.println("Hello word");
 		System.out.println("Hello word");
+		System.out.println("我建的分支好了");
 	}
 }
